@@ -1,0 +1,6 @@
+theme = MaterialDesignColors
+font-family = font-meslo-lg-nerd-font
+window-height = 55
+window-width = 180
+background-opacity = .75
+background-blur = 15

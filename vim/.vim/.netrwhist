@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/johnvenzon/Dropbox'
+let g:netrw_dirhist_2='/Users/johnvenzon/Dropbox/1436/Lab4'
+let g:netrw_dirhist_3='/Users/johnvenzon/.ssh'
+let g:netrw_dirhist_4='/Users/johnvenzon/Dropbox/1436/lab'
+let g:netrw_dirhist_5='/Users/johnvenzon/Dropbox/1436/lab/lab04'
+let g:netrw_dirhist_6='/Users/johnvenzon/Dropbox/1436/lab/lab02'
+let g:netrw_dirhist_7='/Users/johnvenzon/Dropbox/1436/lab/lab05/VisualStudio'
+let g:netrw_dirhist_8='/Users/johnvenzon/Dropbox/1436/lab/lab10'
+let g:netrw_dirhist_9='/Users/johnvenzon/Dropbox/School/COSC/DataStruct/2437labs/JWVlab6'
